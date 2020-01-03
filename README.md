@@ -8,12 +8,12 @@ Caesar Cipher is an algorithm used in the history by the Roman emperor Julius Ca
 
 The program inputs a message from the user and encrypts it using caeser shift. The first part of the project encrypts it using caeser shift. The second part decrypts the encrypted message using caeser shift or brute force technique if caeser shift is not known.
 
-If the key is known
+If the key is known<br/>
 
 ![output](/output/SNAPSHOT2.jpg)
 
 <br/>
-If the key is not known
+If the key is not known<br/>
 
 ![output](/output/SNAPSHOT3.jpg)
 
